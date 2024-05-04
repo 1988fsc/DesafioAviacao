@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\msnbo\\Desktop\\Github\\DesafioAviacao\\DesafioAviacao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D099A716-C67C-435F-9FEF-0AB55C17E823}|DesafioAviacao\\DesafioAviacao.csproj|C:\\Users\\msnbo\\Desktop\\Github\\DesafioAviacao\\DesafioAviacao\\desafioaviacao\\compornomeembarque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D099A716-C67C-435F-9FEF-0AB55C17E823}|DesafioAviacao\\DesafioAviacao.csproj|solutionrelative:desafioaviacao\\compornomeembarque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D099A716-C67C-435F-9FEF-0AB55C17E823}|DesafioAviacao\\DesafioAviacao.csproj|c:\\users\\msnbo\\desktop\\github\\desafioaviacao\\desafioaviacao\\desafioaviacao\\criarembarqueaviao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D099A716-C67C-435F-9FEF-0AB55C17E823}|DesafioAviacao\\DesafioAviacao.csproj|solutionrelative:desafioaviacao\\criarembarqueaviao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D099A716-C67C-435F-9FEF-0AB55C17E823}|DesafioAviacao\\DesafioAviacao.csproj|C:\\Users\\msnbo\\Desktop\\Github\\DesafioAviacao\\DesafioAviacao\\desafioaviacao\\aviaoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D099A716-C67C-435F-9FEF-0AB55C17E823}|DesafioAviacao\\DesafioAviacao.csproj|solutionrelative:desafioaviacao\\aviaoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ComporNomeEmbarque.cs",
+              "DocumentMoniker": "C:\\Users\\msnbo\\Desktop\\Github\\DesafioAviacao\\DesafioAviacao\\DesafioAviacao\\ComporNomeEmbarque.cs",
+              "RelativeDocumentMoniker": "DesafioAviacao\\ComporNomeEmbarque.cs",
+              "ToolTip": "C:\\Users\\msnbo\\Desktop\\Github\\DesafioAviacao\\DesafioAviacao\\DesafioAviacao\\ComporNomeEmbarque.cs",
+              "RelativeToolTip": "DesafioAviacao\\ComporNomeEmbarque.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T01:17:56.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CriarEmbarqueAviao.cs",
+              "DocumentMoniker": "C:\\Users\\msnbo\\Desktop\\Github\\DesafioAviacao\\DesafioAviacao\\DesafioAviacao\\CriarEmbarqueAviao.cs",
+              "RelativeDocumentMoniker": "DesafioAviacao\\CriarEmbarqueAviao.cs",
+              "ToolTip": "C:\\Users\\msnbo\\Desktop\\Github\\DesafioAviacao\\DesafioAviacao\\DesafioAviacao\\CriarEmbarqueAviao.cs",
+              "RelativeToolTip": "DesafioAviacao\\CriarEmbarqueAviao.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T01:17:56.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AviaoEnum.cs",
+              "DocumentMoniker": "C:\\Users\\msnbo\\Desktop\\Github\\DesafioAviacao\\DesafioAviacao\\DesafioAviacao\\AviaoEnum.cs",
+              "RelativeDocumentMoniker": "DesafioAviacao\\AviaoEnum.cs",
+              "ToolTip": "C:\\Users\\msnbo\\Desktop\\Github\\DesafioAviacao\\DesafioAviacao\\DesafioAviacao\\AviaoEnum.cs",
+              "RelativeToolTip": "DesafioAviacao\\AviaoEnum.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAwwBoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T01:17:56.381Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

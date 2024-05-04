@@ -8,22 +8,22 @@ namespace DesafioAviacao
 {
     public enum AviaoEnum
     {
-        Assento1 = 64587000,
-        Assento2 = 64587001,
-        Assento3 = 64587002,
-        Assento4 = 64587003,
-        Assento5 = 64587004,
-        Assento6 = 64587005,
-        Assento7 = 64587006,
-        Assento8 = 64587007,
-        Assento9 = 64587008,
-        Assento10 = 64587009
+        Assento1 = 565930000,
+        Assento2 = 565930001,
+        Assento3 = 565930002,
+        Assento4 = 565930003,
+        Assento5 = 565930004,
+        Assento6 = 565930005,
+        Assento7 = 565930006,
+        Assento8 = 565930007,
+        Assento9 = 565930008,
+        Assento10 = 565930009
     }
 
     public enum PortaoEnum
     {
-        Portao1 = 64587000,
-        Portao2 = 64587001,
-        Portao3 = 64587002,
+        Portao1 = 565930000,
+        Portao2 = 565930001,
+        Portao3 = 565930002,
     }
 }

@@ -23,15 +23,15 @@ public class CriarEmbarqueAviao : IPlugin
         {
             Entity aviao = (Entity)context.InputParameters["Target"];
 
-            int valorAssento = 645870000;
+            int valorAssento = 565930000;
 
             for (int i = 0; i < 10; i++) 
             {
-                Entity embarque = new Entity("academia_embarque");
+                Entity embarque = new Entity("cre80_embarque");
 
-                embarque["academia_assento"] = new OptionSetValue(valorAssento);
-                embarque["academia_portao"] = new OptionSetValue(645870000);
-                embarque["academia_aviao"] = new EntityReference("academia_aviao", aviao.Id);
+                embarque["cre80_assento"] = new OptionSetValue(valorAssento);
+                embarque["cre80_portao"] = new OptionSetValue(565930000);
+                embarque["cre80_aviao"] = new EntityReference("cre80_aviao", aviao.Id);
 
                 service.Create(embarque);
                 valorAssento++;

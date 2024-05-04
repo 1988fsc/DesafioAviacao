@@ -24,15 +24,15 @@ public class ComporNomeEmbarque : IPlugin
         {
             Entity embarque = (Entity)context.InputParameters["Target"];
 
-            var assento = embarque.GetAttributeValue<OptionSetValue>("academia_assento").Value;
+            var assento = embarque.GetAttributeValue<OptionSetValue>("cre80_assento").Value;
             var enumAssento = (AviaoEnum)assento;
             string assentoLabel = enumAssento.ToString();
 
-            var portao = embarque.GetAttributeValue<OptionSetValue>("academia_portao").Value;
+            var portao = embarque.GetAttributeValue<OptionSetValue>("cre80_portao").Value;
             var enumPortao = (PortaoEnum)portao;
             string portaoLabel = enumPortao.ToString();
 
-            embarque["academia_name"] = $" Portão: {portaoLabel} | Assento: {assentoLabel}";
+            embarque["cre80_nome"] = $" Portão: {portaoLabel} | Assento: {assentoLabel}";
 
 
         }
